@@ -10,6 +10,12 @@ const Projects = () => {
         <div className="space-y-8">
           <div>
             <h3 className="text-xl font-bold">Ransomware Detection System</h3>
+            <a
+              href="https://github.com/NitinShriram/Ransomware-Detection-System"
+              className="text-blue-500"
+            >
+              GitHub
+            </a>
             <ul className="list-disc pl-5 space-y-2 text-lg">
               <li>
                 Developed a hybrid ransomware detection system (RDS) leveraging
@@ -39,7 +45,10 @@ const Projects = () => {
             <h3 className="text-xl font-bold">
               To-Do app with voice recognition
             </h3>
-            <a href="https://github.com/NitinShriram" className="text-blue-500">
+            <a
+              href="https://subtle-hummingbird-7507b5.netlify.app/"
+              className="text-blue-500"
+            >
               Live Link
             </a>
             <ul className="list-disc pl-5 space-y-2 text-lg">

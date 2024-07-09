@@ -13,10 +13,10 @@ const Contact = () => {
           <li>
             LinkedIn:{" "}
             <a
-              href="https://www.linkedin.com/in/nitin-shriram-s"
+              href="https://www.linkedin.com/in/nitinshriram-/"
               className="text-blue-500"
             >
-              Nitin Shriram S
+              NitinShriram
             </a>
           </li>
           <li>
