@@ -8,13 +8,13 @@ const Contact = () => {
         <div className="space-x-4">
           <a
             href="mailto:125156081@sastra.ac.in"
-            className="px-6 py-3 bg-primary text-black font-semibold rounded-full hover:bg-secondary"
+            className="px-6 py-3 bg-primary text-black font-semibold rounded-full hover:bg-red-600"
           >
             Email
           </a>
           <a
             href="https://www.linkedin.com/in/nitinshriram-/"
-            className="px-6 py-3 bg-primary text-black font-semibold rounded-full hover:bg-secondary"
+            className="px-6 py-3 bg-secondary text-black font-semibold rounded-full hover:bg-red-600"
           >
             LinkedIn
           </a>

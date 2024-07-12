@@ -13,7 +13,7 @@ const Projects = () => {
       link: "https://github.com/NitinShriram/Ransomware-Detection-System",
     },
     {
-      name: "To-Do App with Voice Recognition",
+      name: "Notes Maker App with Voice Support",
       description: `
         - Developed a web application using the MERN stack with integrated voice recognition via the react-speech-recognition library, allowing hands-free task management.
         - The app features an intuitive interface for creating, updating, and organizing tasks, with a responsive design.
