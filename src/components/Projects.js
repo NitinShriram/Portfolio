@@ -13,12 +13,14 @@ const Projects = () => {
       link: "https://github.com/NitinShriram/Ransomware-Detection-System",
     },
     {
-      name: "Notes Maker App with Voice Support",
+      name: "Voice Query AI with Real-Time Transcription and Response",
       description: `
-        - Developed a web application using the MERN stack with integrated voice recognition via the react-speech-recognition library, allowing hands-free task management.
-        - The app features an intuitive interface for creating, updating, and organizing tasks, with a responsive design.
+        - Developed a full-stack MERN application utilizing Deepgram for text-to-speech and speech-to-text transcription.
+        - Used Wolfram Alpha API for real-time query responses.
+        - Implemented voice recording, file upload functionality, and audio playback using React and Dropzone, enhancing the user experience with dynamic speech interaction capabilities.
+        - Used Tailwind CSS for responsive design and deployed in vercel.
       `,
-      link: "https://subtle-hummingbird-7507b5.netlify.app/",
+      link: "https://voicequery-ai.vercel.app/",
     },
     {
       name: "Chat Application - MERN",
@@ -29,7 +31,7 @@ const Projects = () => {
         - Enabled users to upload profile pictures during signup, utilizing Cloudinary for image storage and management.
         - Added functionality for users to search for existing group chats and create new ones.
       `,
-      link: "",
+      link: "https://talk-time-z6ut.onrender.com/",
     },
   ];
 
